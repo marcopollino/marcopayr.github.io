@@ -1,0 +1,58 @@
+# config/_default/menus.toml
+
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "CV"
+  #pageRef = "/Education & Interests" # this here is directory name and will also show identically on website
+  weight = 30
+
+
+[[main]]
+  name = "Education"
+  parent = "CV"
+  pageRef = "/Education" # this here is directory name and will also show identically on website
+
+[[main]]
+  name = "Experience"
+  parent = "CV"
+  pageRef = "/Experience"
+
+[[main]]
+  name = "Publications"
+  pageRef = "/publications"
+  weight = 40
+
+[[main]]
+  name = "About Me"
+  pageRef = "contact"
+  weight = 45
+
+[[main]]
+  pre = "github"
+  name = "GitHub"
+  url = "https://github.com/marcopollino"
+  weight = 50
+
+[[main]]
+  pre = "linkedin"
+  url = "https://www.linkedin.com/in/marco-payr-631854b7/"
+  weight = 47
+
+[[main]]
+  identifier = "twitter"
+  pre = "twitter"
+  url = "https://twitter.com/marcopayr"
+  weight = 48
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+  name = "Contact"
+  pageref = "/contact"
+  weight = 20

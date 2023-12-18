@@ -1,0 +1,14 @@
+# config/_default/languages.en.toml
+
+title = "Marco Payr"
+
+[author]
+name = "Marco Payr"
+image = "img/me.jpg"
+headline = "PhD student @ EMBL Heidelberg.<br> Interested in sm-FRET, protein-RNA interactions, protein design.<br>Mail: firstname.lastname@C.de, where C = EMBL"
+bio = "PhD student @ EMBL Heidelberg.<br> Interested in sm-FRET and protein-RNA interactions."
+links = [
+  { twitter = "https://twitter.com/marcopayr" },
+  { linkedin = "https://www.linkedin.com/in/marco-payr-631854b7/"},
+  #{ email = "mailto:marco.payr97@gmail.com"}
+]
