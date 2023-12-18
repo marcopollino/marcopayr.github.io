@@ -6,7 +6,7 @@
   
     
       <url>
-            <loc>https://example.org/contact/</loc>
+            <loc>https://marcopayr.github.io/contact/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -20,7 +20,7 @@
   
     
       <url>
-            <loc>https://example.org/education/</loc>
+            <loc>https://marcopayr.github.io/education/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -30,7 +30,7 @@
   
     
       <url>
-            <loc>https://example.org/experience/</loc>
+            <loc>https://marcopayr.github.io/experience/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -38,7 +38,7 @@
   
     
       <url>
-            <loc>https://example.org/</loc>
+            <loc>https://marcopayr.github.io/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -48,7 +48,7 @@
   
     
       <url>
-            <loc>https://example.org/publications/</loc>
+            <loc>https://marcopayr.github.io/publications/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
