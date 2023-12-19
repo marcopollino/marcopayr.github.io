@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marcopayr.github.io/sitemap.xml

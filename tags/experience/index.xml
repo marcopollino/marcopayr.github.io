@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>experience on Marco Payr</title>
+    <link>https://marcopayr.github.io/tags/experience/</link>
+    <description>Recent content in experience on Marco Payr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Marco Payr</copyright>
+    <atom:link href="https://marcopayr.github.io/tags/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience</title>
+      <link>https://marcopayr.github.io/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcopayr.github.io/experience/</guid>
+      <description> Programming Matlab (2 years) Python (5 years) C++ (2 years) bash, Linux, Microsoft Office, Adobe Illustrator, benchling Molecular Biology PCR-based cloning approaches Gibson Assembly, Overlap extension PCR, QuickChange, Restriction-enzyme based cloning DNA template design for protein expression and RNA in-vitro transcription Protein expression, purification and characterization RNA in-vitro transcription, purification and characterization Protein-protein &amp;amp; protein-RNA complex characterization via nanoDSF, MST, ITC, SEC-MALS, mass photometry Languages # German English Italian Russian native proficient entry level entry level </description>
+      
+    </item>
+    
+  </channel>
+</rss>

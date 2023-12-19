@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publications on Marco Payr</title>
+    <link>https://marcopayr.github.io/tags/publications/</link>
+    <description>Recent content in publications on Marco Payr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Marco Payr</copyright>
+    <atom:link href="https://marcopayr.github.io/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://marcopayr.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcopayr.github.io/publications/</guid>
+      <description>2023 # Hollmann, Nele Merret, et al.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://marcopayr.github.io/publications/feature_about_me.jpg" />
+    </item>
+    
+  </channel>
+</rss>
