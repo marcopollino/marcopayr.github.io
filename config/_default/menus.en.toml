@@ -34,7 +34,7 @@
 [[main]]
   pre = "github"
   name = "GitHub"
-  url = "https://github.com/marcopollino"
+  url = "https://github.com/marcopayr"
   weight = 50
 
 [[main]]
